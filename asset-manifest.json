@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rushdihijab/meet3/static/css/main.073c9b0a.css",
+    "main.js": "/rushdihijab/meet3/static/js/main.90fb2c50.js",
+    "static/js/787.fdbd0656.chunk.js": "/rushdihijab/meet3/static/js/787.fdbd0656.chunk.js",
+    "service-worker.js": "/rushdihijab/meet3/service-worker.js",
+    "static/media/logo.svg": "/rushdihijab/meet3/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/rushdihijab/meet3/index.html",
+    "main.073c9b0a.css.map": "/rushdihijab/meet3/static/css/main.073c9b0a.css.map",
+    "main.90fb2c50.js.map": "/rushdihijab/meet3/static/js/main.90fb2c50.js.map",
+    "787.fdbd0656.chunk.js.map": "/rushdihijab/meet3/static/js/787.fdbd0656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90fb2c50.js"
+  ]
+}
